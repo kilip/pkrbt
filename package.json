@@ -1,0 +1,18 @@
+{
+  "name": "pkrbt",
+  "version": "0.0.0",
+  "description": "PKRBT Development",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.14.0",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "eslint": "^9.32.0",
+    "turbo": "^2.5.5",
+    "typescript": "^5.9.2"
+  }
+}
